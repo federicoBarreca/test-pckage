@@ -9,3 +9,6 @@ description = "Internal tools for Menteru data processing"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
+
+[tool.isort]
+skip = ["*"]
