@@ -1,0 +1,7 @@
+README.md
+init.py
+pyproject.toml
+test_pckage.egg-info/PKG-INFO
+test_pckage.egg-info/SOURCES.txt
+test_pckage.egg-info/dependency_links.txt
+test_pckage.egg-info/top_level.txt
