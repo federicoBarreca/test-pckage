@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: test_pckage
-Version: 0.1.0
-Summary: Internal tools for Menteru data processing
-Requires-Python: >=3.11
-Description-Content-Type: text/markdown
