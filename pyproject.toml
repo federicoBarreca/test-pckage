@@ -1,12 +1,11 @@
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "test_pckage"
+name = "test-pckage"          # come si installerà via pip
 version = "0.1.0"
 description = "Internal tools for Menteru data processing"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = [
-]
+dependencies = []
